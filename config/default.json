@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://kaiqichen:Lkim920313!@gamecrafters.7nhdr.mongodb.net/gamecrafters?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "c57736980d3dedee74b6",
+  "githubSecret": "2cda53632578271e9dcdbb291a6483c5ce5fe17d"
+}
